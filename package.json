@@ -1,6 +1,6 @@
 {
-  "name": "minitable",
-  "description": "Minimal semantic table styler/writer",
+  "name": "minichain",
+  "description": "Minimal semantic chainable output styler/writer",
   "version": "0.0.1",
   "homepage": "https://github.com/Bartvds/minichain",
   "author": {
